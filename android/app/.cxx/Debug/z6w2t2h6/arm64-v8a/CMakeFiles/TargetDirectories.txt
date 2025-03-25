@@ -1,0 +1,2 @@
+C:/Users/Amaia/amayadev/pmdm/flutter_practica2_amaya_zarate_herrero/comarquesguiInicial/comarquesgui/android/app/.cxx/Debug/z6w2t2h6/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Amaia/amayadev/pmdm/flutter_practica2_amaya_zarate_herrero/comarquesguiInicial/comarquesgui/android/app/.cxx/Debug/z6w2t2h6/arm64-v8a/CMakeFiles/rebuild_cache.dir

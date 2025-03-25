@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\amayadev\\flutter\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Amaia\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Amaia\\amayadev\\pmdm\\flutter_practica2_amaya_zarate_herrero\\comarquesguiInicial\\comarquesgui\\android\\app\\.cxx\\Debug\\z6w2t2h6\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Amaia\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Amaia\\amayadev\\pmdm\\flutter_practica2_amaya_zarate_herrero\\comarquesguiInicial\\comarquesgui\\android\\app\\.cxx\\Debug\\z6w2t2h6\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
